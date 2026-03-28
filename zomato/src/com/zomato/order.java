@@ -6,4 +6,6 @@ public class order {
 	
 	int a = 10 ; 
 	
+	int b = 20 ; 
+	
 }
